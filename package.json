@@ -15,7 +15,11 @@
     "express-session": "^1.13.0",
     "log4js": "^0.6.36",
     "morgan": "~1.6.1",
+    "package.json": "^2.0.1",
     "pg-promise": "^4.4.6",
     "serve-favicon": "~2.3.0"
+  },
+  "overrides": {
+    "semver": "7.5.4"
   }
 }
